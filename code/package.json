@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github-thpongue:thpongue/qanvas2.git"
+    "url": "git@github-thpongue:thpongue/qanvas_drawing.git"
   },
   "author": "",
   "license": "ISC",
@@ -27,6 +27,7 @@
     "karma-jasmine": "^0.3.6",
     "karma-phantomjs-launcher": "1.0.0",
     "phantomjs": "^1.9.19",
+    "phantomjs-prebuilt": "^2.1.14",
     "save-svg-as-png": "^1.0.3",
     "url-to-image": "^1.0.0",
     "watchify": "^3.7.0"
