@@ -1,6 +1,8 @@
 qanvas
 =========
 
+This is something I've been tinkering with in a private repo. It's in it's very early stages (drawing api without curves, anyone?) but draws funny little mandala things and shows off a few techie skills.
+
 to set up 
 =========
 navigate into the code directory
